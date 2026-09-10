@@ -1,2 +1,3 @@
-VERSIONE=v01
-NOTE=Release ufficiale DUST RGS
+VERSIONE=v02
+NOTE=Test aggiornamento automatico DUST RGS
+URL=https://github.com/giusepp3-dotcom/DUSTrgs/releases/download/v02/RegistroSoci_ASD_V02_TEST_AGGIORNAMENTO_CORRETTO.ods
