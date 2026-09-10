@@ -1,2 +1,2 @@
-VERSIONE=v02
+VERSIONE=v01
 NOTE=Release ufficiale DUST RGS
