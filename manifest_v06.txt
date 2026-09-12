@@ -1,4 +1,0 @@
-VERSIONE=v06
-NOTE=Ribattezzata v06 (come la v05) solo per permettere l'aggiornamento diretto del file gia' in v05: contiene la correzione della colorazione della riga TOTALE del lotto tessere, che nell'uso reale poteva restare bianca invece che grigia anche dopo la precedente correzione. Nessun'altra modifica rispetto al pacchetto v04 consegnato.
-URL=https://github.com/giusepp3-dotcom/DUSTrgs/releases/download/v06/RegistroSoci_ASD_v06.ods
-CHECKSUM=5418EA5E
