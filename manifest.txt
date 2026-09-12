@@ -1,4 +1,4 @@
 VERSIONE=v04
 NOTE=Aggiunto avviso se il file non è protetto da password di apertura; ripristinato il limite di rotazione backup a 10 copie; l'aggiornamento ora verifica un CHECKSUM del file scaricato e non usa più curl.exe (funziona anche su Linux/macOS); l'aggiornamento ora sovrascrive direttamente il file in uso (il file precedente resta comunque salvato in Backup); corretto l'ordine di tabulazione (tasto Tab) nella scheda anagrafica del dialogo iscritti; corretto il calcolo delle scadenze in modo che un documento "in scadenza" non venga più nascosto quando un altro documento dello stesso iscritto risulta scaduto, sia nei contatori sia nell'avviso all'apertura del file; le liste "in scadenza"/"scaduti" ora mostrano la data di scadenza effettiva (rilascio + 1 anno) invece della sola data di rilascio; corretto un bug per cui, se un aggiornamento falliva, il messaggio "Dettaglio:" risultava sempre vuoto invece di spiegare la causa reale. Nessun cambiamento nella struttura dati o nelle funzioni già testate.
 URL=https://github.com/giusepp3-dotcom/DUSTrgs/releases/download/v04/RegistroSoci_ASD_v04.ods
-CHECKSUM=4E8ED991
+CHECKSUM=FC013AFF
