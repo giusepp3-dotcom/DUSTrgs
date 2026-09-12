@@ -1,4 +1,0 @@
-VERSIONE=v05
-NOTE=Ribattezzata v05 solo per permettere l'aggiornamento diretto di un file gia' in v04 (il controllo di versione rifiuta un aggiornamento "alla pari"): contiene esattamente lo stesso codice del pacchetto v04 consegnato, inclusa l'ultima correzione (la colorazione della riga TOTALE e dell'intestazione del lotto tessere, persa durante un aggiornamento, viene ora ripristinata automaticamente). Nessun'altra modifica.
-URL=https://github.com/giusepp3-dotcom/DUSTrgs/releases/download/v05/RegistroSoci_ASD_v05.ods
-CHECKSUM=2BC0B136
