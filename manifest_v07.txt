@@ -1,0 +1,4 @@
+VERSIONE=v07
+NOTE=Ribattezzata v07 (come v05 e v06) solo per permettere l'aggiornamento diretto del tuo file gia' in v06: contiene due nuove correzioni rispetto al pacchetto v04/v06 gia' consegnato. 1) Corretto un errore "Uninitialized object" che poteva comparire sia con "Verifica aggiornamenti" sia lanciando direttamente l'aggiornamento, durante la lettura del manifest da GitHub. 2) Corretto un bug nella Gestione Tessere per cui, inserendo un lotto per un secondo anno accademico (o successivo), veniva aggiunta in fondo al nuovo blocco una riga in piu' del necessario, mai compilata, che alterava l'impaginazione della tabella. Nessun'altra modifica rispetto al pacchetto v04 gia' consegnato.
+URL=https://github.com/giusepp3-dotcom/DUSTrgs/releases/download/v07/RegistroSoci_ASD_v07.ods
+CHECKSUM=F825ED01
